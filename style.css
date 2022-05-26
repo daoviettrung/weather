@@ -1,0 +1,12 @@
+.box{
+    padding: 1rem;
+    border:1px solid black;
+}
+
+#content-main{
+    display: flex;
+}
+
+.name-date{
+    font-weight:bold;
+}
